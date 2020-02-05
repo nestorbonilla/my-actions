@@ -1,0 +1,2 @@
+# Avoiding Common Attacks
+Due the openness of the contract which serves as a dashboard for right actions after an opportunity is provided we didn't make great efforts on securing the deal, but for further enhancements of the platform, where there will be activists, but also organization that will be able to create their profiles and create opportunities, there we will avoid frequent attacks.
